@@ -2,7 +2,7 @@
 ## C'est quoi ?<br>
 Application mobile pour le site web Resto que vous pouvez visualiser ici : https://github.com/Landris18/Resto.git <br>
 <br>
-##Prérequis ?
+## Prérequis ?<br>
 Installer nodejs<br>
 * node & npm
   ```sh
@@ -14,7 +14,7 @@ Installer nodejs
   ```sh
   npm install expo-cli -g
   ```
-## Installation ?
+## Installation ?<br>
 1. Clone le repos
    ```sh
    git clone https://github.com/amada10/crud-nodejs/edit/master
