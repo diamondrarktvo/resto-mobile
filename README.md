@@ -17,7 +17,7 @@ Installer nodejs
 ## Installation ?<br>
 1. Clone le repos
    ```sh
-   git clone https://github.com/amada10/crud-nodejs/edit/master
+   git clone https://github.com/amada10/resto-mobile.git
    ```
 2. Placez-vous dans le dossier resto-mobile/front
   ```sh
